@@ -46,7 +46,6 @@
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romy14793&theme=nord&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romy14793&layout=compact&hide=ruby,shell&theme=nord) 
   
  </div>
 
